@@ -1,0 +1,11 @@
+@media screen and (max-width:376px) {
+    .medi {
+        flex-direction: column-reverse;
+    }
+    .btn-gst{
+        text-align: center!important;
+    }
+    .ph{
+        padding: 2%!important;
+    }
+}
